@@ -26,7 +26,7 @@ Challenges within each section are meant to be solved in order.
 1.  Navigate to your home directory
   -  `cd ~`
 1.  Navigate back to the previous directory
-  - `cd ..`
+  - `cd -`
 
 ### Variables
 
@@ -43,4 +43,6 @@ Challenges within each section are meant to be solved in order.
 
 1.  Print what options a command accepts, like `bash` or `python`
 1.  Read the manual for a command, like `echo` or `ls`
+  - `man echo`
+  - `man ls`
 1.  Print the file path to a command, like `bash` or `python`
