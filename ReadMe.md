@@ -127,6 +127,7 @@ Challenges within each section are meant to be solved in order.
 ### Permissions
 
 1.  Print out your user name
+  - `echo $USER`
 1.  List the permissions (and metadata) of all `.txt` files
 1.  Give all users write permission on the file `Cats.txt`
 1.  List the permissions (and metadata) of the file `Cats.txt`
